@@ -1,0 +1,32 @@
+# built native helpers
+native/bin/
+
+# speech models (download them, never commit them)
+models/*
+!models/README.md
+*.bin
+*.gguf
+
+# media: inputs, outputs, test clips, frames
+*.mov
+*.mp4
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wav
+*.aiff
+*.mp3
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.heic
+
+# python / editors / os
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.env

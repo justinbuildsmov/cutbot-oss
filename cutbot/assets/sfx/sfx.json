@@ -1,0 +1,138 @@
+[
+ {
+  "role": "whoosh-short",
+  "file": "whoosh-short.wav",
+  "gain_db": -20,
+  "use": "quick graphic/card entrance",
+  "dur": 0.45,
+  "source": "whoosh-short__mixkit1485__mixkit-free.wav"
+ },
+ {
+  "role": "whoosh-tight",
+  "file": "whoosh-tight.wav",
+  "gain_db": -20,
+  "use": "small element in; alternate with whoosh-short",
+  "dur": 0.99,
+  "source": "whoosh-tight__mixkit1491__mixkit-free.wav"
+ },
+ {
+  "role": "whoosh-mid",
+  "file": "whoosh-mid.wav",
+  "gain_db": -20,
+  "use": "screenshot/panel entrance",
+  "dur": 2.24,
+  "source": "whoosh-mid__mixkit1489__mixkit-free.wav"
+ },
+ {
+  "role": "whoosh-big",
+  "file": "whoosh-big.wav",
+  "gain_db": -18,
+  "use": "section transition ONLY (big moments)",
+  "dur": 4.45,
+  "source": "whoosh-bigsection__mixkit1714__mixkit-free.wav"
+ },
+ {
+  "role": "sweep-up",
+  "file": "sweep-up.wav",
+  "gain_db": -20,
+  "use": "punch-in / zoom-in",
+  "dur": 0.72,
+  "source": "sweep-up-punchin__mixkit166__mixkit-free.wav"
+ },
+ {
+  "role": "shutter-a",
+  "file": "shutter-a.wav",
+  "gain_db": -24,
+  "use": "freeze-frame reveal, receipts",
+  "dur": 0.52,
+  "source": "shutter-a__mixkit1430__mixkit-free.wav"
+ },
+ {
+  "role": "shutter-b",
+  "file": "shutter-b.wav",
+  "gain_db": -24,
+  "use": "alternate shutter",
+  "dur": 1.41,
+  "source": "shutter-b-snappy__mixkit1433__mixkit-free.wav"
+ },
+ {
+  "role": "click-mouse",
+  "file": "click-mouse.wav",
+  "gain_db": -22,
+  "use": "cursor actions in screen recordings",
+  "dur": 0.21,
+  "source": "click-mouse__mixkit1133__mixkit-free.wav"
+ },
+ {
+  "role": "click-ui",
+  "file": "click-ui.wav",
+  "gain_db": -22,
+  "use": "editor annotations: callouts, small UI",
+  "dur": 0.2,
+  "source": "click-ui-tick__mixkit2568__mixkit-free.wav"
+ },
+ {
+  "role": "pop-rise",
+  "file": "pop-rise.wav",
+  "gain_db": -20,
+  "use": "stat/badge build (stackable)",
+  "dur": 0.46,
+  "source": "pop-alert-rise__mixkit2358__mixkit-free.wav"
+ },
+ {
+  "role": "impact-punch",
+  "file": "impact-punch.wav",
+  "gain_db": -14,
+  "use": "THE key claim; max 2 per video",
+  "dur": 3.47,
+  "source": "impact-punch__mixkit498__mixkit-free.wav"
+ },
+ {
+  "role": "impact-bigboom",
+  "file": "impact-bigboom.wav",
+  "gain_db": -16,
+  "use": "hero card landing; has long tail, fade it",
+  "dur": 3.9,
+  "source": "impact-bigboom__mixkit1143__mixkit-free.wav"
+ },
+ {
+  "role": "riser-short",
+  "file": "riser-short.wav",
+  "gain_db": -18,
+  "use": "~1.8s build into payoff; peak on reveal then cut",
+  "dur": 1.9,
+  "source": "riser-short__mixkit790__mixkit-free.wav"
+ },
+ {
+  "role": "riser-synth",
+  "file": "riser-synth.wav",
+  "gain_db": -18,
+  "use": "longer synth build (trim to 2-3s at use)",
+  "dur": 4.84,
+  "source": "riser-synth-trimmed__mixkit645__mixkit-free.wav"
+ },
+ {
+  "role": "ding",
+  "file": "ding.wav",
+  "gain_db": -20,
+  "use": "list items, tips; alternate pitches",
+  "dur": 3.27,
+  "source": "ding-bell__mixkit933__mixkit-free.wav"
+ },
+ {
+  "role": "ding-falling",
+  "file": "ding-falling.wav",
+  "gain_db": -20,
+  "use": "alt ding (descending)",
+  "dur": 1.99,
+  "source": "ding-falling-alt__mixkit601__mixkit-free.wav"
+ },
+ {
+  "role": "downlifter",
+  "file": "downlifter.wav",
+  "gain_db": -22,
+  "use": "section close; trim to ~2s",
+  "dur": 5.1,
+  "source": "downlifter__mixkit2901__mixkit-free.wav"
+ }
+]
